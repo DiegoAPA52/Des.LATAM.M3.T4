@@ -7,7 +7,7 @@ const propiedades_alquiler = [
         habitaciones: 3,
         costo: 7,
         smoke: false,
-        pets: true
+        pets: false
     },
     {
         nombre: 'Home Studio en Santiago centro',
